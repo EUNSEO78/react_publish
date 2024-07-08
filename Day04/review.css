@@ -1,0 +1,34 @@
+.sale {
+  background-color: red;
+  color: white;
+  width: fit-content;
+  border-radius: 20px;
+  padding: 3px 8px 3px 8px;
+}
+.today {
+  background-color: pink;
+  color: white;
+  width: fit-content;
+  border-radius: 20px;
+  padding: 3px 8px 3px 8px;
+}
+.factory {
+  background-color: blue;
+  color: white;
+  width: 200px;
+  border-radius: ;
+  font-weight: 300;
+  padding: 10px 0px 10px 0px;
+  text-align: center;
+  border: 1px solid red;
+}
+.dream {
+  background-color: blue;
+  color: white;
+  width: 200px;
+  border-radius: ;
+  font-weight: 300;
+  padding: 10px 0px 10px 0px;
+  text-align: center;
+  border: 1px solid red;
+}
